@@ -12,4 +12,8 @@ This Repo Contains Computer Algorithms implemented in C++ with STL. This repo wi
 ## Queues
 ## Graphs
 ## Sorting
+  1. Bubble Sort 
+  2. Merge Sort
+  3. Insertion Sort
+  4. Selection Sort
 ## Searching
