@@ -61,4 +61,18 @@ public:
         std::cout << std::endl;
         return;
     }
+
+    bool IS_FULL(){
+        if (LIMIT == TOP){
+            return true;
+        }
+        return false;
+    }(
+
+    bool IS_EMPTY(){
+        if (TOP == -1){
+            return true;
+        }
+        return false;
+    }
 };
